@@ -1,6 +1,8 @@
 #include<iostream>
 #include<cstring>
 
+// Yorum eklendi 2.
+
 using std::cout;
 using std::cin;
 
