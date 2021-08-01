@@ -1,6 +1,7 @@
 /* Batuhan Karay – 2315406
 I read and accept the submission rules and the extra rules specified in each question. This is my
 own work that is done by myself only. */
+// Yorum eklendi 3.
 
 #include <iostream>
 #include<cstring>
