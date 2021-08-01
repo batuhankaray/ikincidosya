@@ -1,6 +1,8 @@
 #ifndef FIGHTER_H
 #define FIGHTER_H
 
+// Yorum eklendi.
+
 using std::cout;
 using std::cin;
 
